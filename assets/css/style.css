@@ -1,9 +1,6 @@
-
-
 body{
-    font-family: helvetica;
+    background-color: #f3eee8;
 }
-
 .container{
     display: flex;
     flex-direction: column;
